@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TpRepasoBanco", "TpRepasoBa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tp2Repas", "Tp2Repas", "{60B3EE3D-1FC9-4BE0-A5D0-F72DF7611C96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp2Repaso", "Tp2Repaso\Tp2Repaso.csproj", "{C598A9B6-9090-44BC-84C1-4FC5C5C163DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tp2Repaso", "Tp2Repaso\Tp2Repaso.csproj", "{C598A9B6-9090-44BC-84C1-4FC5C5C163DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TpCrudSql", "TpCrudSql", "{7845CC67-C207-487E-8E4C-61618136B7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpCrudSql", "TpCrudSql\TpCrudSql.csproj", "{86111B42-C976-4228-B5C9-4F10397D08D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{C598A9B6-9090-44BC-84C1-4FC5C5C163DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C598A9B6-9090-44BC-84C1-4FC5C5C163DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C598A9B6-9090-44BC-84C1-4FC5C5C163DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86111B42-C976-4228-B5C9-4F10397D08D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86111B42-C976-4228-B5C9-4F10397D08D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86111B42-C976-4228-B5C9-4F10397D08D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86111B42-C976-4228-B5C9-4F10397D08D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6CD45808-B351-4C00-A2D6-3B7156433913} = {1F90274B-03D0-4798-B026-14D9DBCA16F4}
 		{C598A9B6-9090-44BC-84C1-4FC5C5C163DD} = {60B3EE3D-1FC9-4BE0-A5D0-F72DF7611C96}
+		{86111B42-C976-4228-B5C9-4F10397D08D0} = {7845CC67-C207-487E-8E4C-61618136B7BD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8179D7F3-6F6F-4016-8F7C-57E7F491B11E}
